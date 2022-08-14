@@ -38,7 +38,6 @@ os.system("clear")
               time.sleep(0.002)
               
 
-type("""\033[93m Woy Jagoan Lu?'
 
 \033[91m Wahai Engkau Manusia Jangan Main Main Ddos Aja Bicarakan Lah Baik Baik Manusia
 
